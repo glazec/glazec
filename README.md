@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     <th><a href="https://github.com/glazec">
       <img src="https://github-readme-stats.vercel.app/api?username=glazec&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
     </a></th>
-    <th><a href="https://github.com/Konano">
+    <th><a href="https://github.com/glazec">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glazec&layout=compact&langs_count=6" />
     </a></th>
   </tr>
