@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 </table>
 
   <th><a href="https://github.com/glazec">
-     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=glazec&layout=compac"/>
+     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=glazec&layout=compact&v=2"/>
     </a><th>
