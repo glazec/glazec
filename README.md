@@ -29,7 +29,11 @@ Here are some ideas to get you started:
       <img src="https://github-readme-stats.vercel.app/api?username=glazec&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
     </a></th>
     <th><a href="https://github.com/glazec">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glazec&layout=compact&langs_count=6" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glazec&layout=compact&langs_count=6&hide=html,css" />
     </a></th>
-  </tr>
+  </tr>    
 </table>
+
+  <th><a href="https://github.com/glazec">
+     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=glazec&layout=compac"/>
+    </a><th>
