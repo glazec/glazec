@@ -23,6 +23,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+ ![Metrics](https://metrics.lecoq.io/glazec?template=classic&languages=1&config.timezone=America%2FLos_Angeles)
+ 
 <table style="width:100%">
   <tr>
     <th><a href="https://github.com/glazec">
@@ -37,3 +39,5 @@ Here are some ideas to get you started:
   <th><a href="https://github.com/glazec">
      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=glazec&layout=compact&v=2"/>
     </a><th>
+      
+
