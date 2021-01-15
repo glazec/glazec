@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 </p>
 
  ![Metrics](github-metrics.svg)
+ 
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=glazec&layout=compact&v=2"/>
 
 <!--
