@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
- ![Metrics](https://metrics.lecoq.io/glazec?template=classic&languages=1&config.timezone=America%2FLos_Angeles)
+ ![Metrics](github-metrics.svg)
  
 <table style="width:100%">
   <tr>
