@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 </p>
 
  ![Metrics](github-metrics.svg)
- 
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=glazec&layout=compact&v=2"/>
+
+<!--
 <table style="width:100%">
   <tr>
     <th><a href="https://github.com/glazec">
@@ -39,5 +41,5 @@ Here are some ideas to get you started:
   <th><a href="https://github.com/glazec">
      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=glazec&layout=compact&v=2"/>
     </a><th>
-      
+-->
 
