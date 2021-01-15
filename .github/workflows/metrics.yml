@@ -20,3 +20,5 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/Los_Angeles
           plugin_languages: yes
+          plugin_languages_ignored: "" # List of comma separated languages to ignore
+          plugin_languages_skipped: "HTML,Jupyter Notebook,CSS" # List of comma separated repositories to skip:  
